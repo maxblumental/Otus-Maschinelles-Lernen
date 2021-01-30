@@ -1,1 +1,1 @@
-# otus_quick_dive
+# Die Schule des maschinelles Lernen
